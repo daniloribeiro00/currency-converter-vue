@@ -1,24 +1,5 @@
-# vue-test-default-v3
+# currency-converter-bue
 
-## Project setup
-```
-yarn install
-```
+Currency converter created with Vue.js.
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Website: https://currency-converter-vue.vercel.app
